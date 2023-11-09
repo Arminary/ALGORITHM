@@ -1,0 +1,28 @@
+SOLUTION 1.
+NUMBER OF CHARACTERS.
+step 1; create a variable to hold sentences.
+step 2; create a variable to hold character count.
+step 3; read through each character and add 1 to variable character count.
+step 4; on getting to fullstops, stop counting.
+step 5; print character count result.
+
+SOLUTION 2.
+NUMBER OF WORDS.
+step 1; create a variable to hold sentences.
+step 2; create a variable to hold word count.
+step 3; read through the sentence characters by character.
+step 4; on getting to space, while reading add 1 to word count.
+step 5; repeat step 3 and 4.
+step 6; on gettin to point, stop.
+step 7; print word count result.
+
+
+SOLUTION 3.
+NUMBER OF VOWELS IN THE SENTENCE.
+step 1; create a variable to hold sentence.
+step 2; create a variable to hold vowel characters.
+step 3; create a variable to hold vowel counts.
+step 4; read through the sentence character by character and compare the characters to vowel charaters.
+step 5; if the sentence character match any of the vowel characters add 1 to vowel count.
+step 6; on punctuation, stop counting.
+step 7; print vowel count.
